@@ -1,3 +1,1 @@
-### Myles
-
-Hey, I’m Myles.
+### Hey, I’m Myles.
